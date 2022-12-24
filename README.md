@@ -1,2 +1,2 @@
 # huffman-app
-Website hosted here ----> (https://huffman-app.herokuapp.com)
+Website hosted here ----> (https://filecompression.up.railway.app/)
